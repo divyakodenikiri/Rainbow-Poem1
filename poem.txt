@@ -5,6 +5,7 @@ Pink
 Orange
 Green
 Unicorn
+Indogo
 Yellow
 Blue
 Red
